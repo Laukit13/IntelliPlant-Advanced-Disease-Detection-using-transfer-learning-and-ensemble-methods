@@ -1,0 +1,1 @@
+gcloud functions deploy predict --runtime python38 --trigger-http --memory 512 --project active-pillar-384612
