@@ -20,6 +20,11 @@ IntelliPlant is an advanced Plant Disease Classification system that leverages t
 
 IntelliPlant is designed to detect and classify plant diseases using transfer learning and ensemble methods. The system utilizes the VGG16 architecture, a convolutional neural network model, to achieve high accuracy in disease classification.
 
+## Demo
+<div align="center">
+  <img height="300" width="100%" src="https://github.com/Laukit13/IntelliPlant-Advanced-Disease-Detection-using-transfer-learning-and-ensemble-methods/blob/main/Img/Prj_2.png"  />
+</div>
+
 ## Features
 
 - Classification of diseases across 5+ plant varieties and 10+ disease types
