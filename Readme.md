@@ -70,6 +70,10 @@ The model achieved an accuracy exceeding 80% on the test dataset, demonstrating 
 - **Postman**: API testing tool
 - **OpenCV2**: Image processing library
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
