@@ -22,7 +22,7 @@ IntelliPlant is designed to detect and classify plant diseases using transfer le
 
 ## Demo
 <div align="center">
-  <img height="300" width="80%" src="https://github.com/Laukit13/IntelliPlant-Advanced-Disease-Detection-using-transfer-learning-and-ensemble-methods/blob/main/Img/Prj_2.png"  />
+  <img height="250" width="80%" src="https://github.com/Laukit13/IntelliPlant-Advanced-Disease-Detection-using-transfer-learning-and-ensemble-methods/blob/main/Img/Prj_2.png"  />
 </div>
 
 ## Features
