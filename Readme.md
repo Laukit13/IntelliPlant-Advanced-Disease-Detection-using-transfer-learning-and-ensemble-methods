@@ -7,6 +7,7 @@ IntelliPlant is an advanced Plant Disease Classification system that leverages t
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Demo](#Demo)
 - [Features](#features)
 - [Dataset](#dataset)
 - [Model Architecture](#model-architecture)
